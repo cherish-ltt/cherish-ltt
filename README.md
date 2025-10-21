@@ -5,13 +5,13 @@
 <!-- 徽章start -->
 <p align="center">
   <!-- Github徽章 -->
-  <a href="https://github.com/aojiaoxiaolinlin" target="_blank"><img src="https://img.shields.io/badge/GitHub-linlin-red"></a>
+  <a href="https://github.com/cherish-ltt" target="_blank"><img src="https://img.shields.io/badge/GitHub-linlin-red"></a>
   <!-- Gitee徽章 -->
-  <a href="https://gitee.com/xiaolinlinw" target="_blank"><img src="https://img.shields.io/badge/Gitee-linlin-orange"></a>
+  <!-- <a href="https://gitee.com/xiaolinlinw" target="_blank"><img src="https://img.shields.io/badge/Gitee-linlin-orange"></a> -->
   <!-- 个人网站徽章 -->
-  <a href="https://aojiaoxiaolinlin.github.io" target="_blank">
+  <!-- <a href="https://aojiaoxiaolinlin.github.io" target="_blank">
     <img src="https://img.shields.io/badge/blog-lynn-red" alt="个人网站">
-  </a>
+  </a> -->
 </p>
 <!-- 徽章end -->
 <br>
@@ -40,8 +40,8 @@
 <!--技能结束-->
 <!-- 统计卡片start -->
 <div align="center">
-  <img height="137px" src="https://github-readme-stats.vercel.app/api?username=aojiaoxiaolinlin&hide_title=true&hide_border=true&show_icons=trueline_height=21&text_color=000&icon_color=000&bg_color=0,ea6161,ffc64d,fffc4d,52fa5a&theme=graywhite" />
-  <img height="137px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=aojiaoxiaolinlin&hide_title=true&hide_border=true&layout=compact&langs_count=6&text_color=000&icon_color=fff&bg_color=0,52fa5a,4dfcff,c64dff&theme=graywhite" />
+  <img height="137px" src="https://github-readme-stats.vercel.app/api?username=cherish-ltt&hide_title=true&hide_border=true&show_icons=trueline_height=21&text_color=000&icon_color=000&bg_color=0,ea6161,ffc64d,fffc4d,52fa5a&theme=graywhite" />
+  <img height="137px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=cherish-ltt&hide_title=true&hide_border=true&layout=compact&langs_count=6&text_color=000&icon_color=fff&bg_color=0,52fa5a,4dfcff,c64dff&theme=graywhite" />
 </div>
 <!-- 统计卡片end -->
 <br>
@@ -52,7 +52,7 @@
 
 
 <!--
-**aojiaoxiaolinlin/aojiaoxiaolinlin** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**cherish-ltt/cherish-ltt** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
 
@@ -65,4 +65,4 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=aojiaoxiaolinlin&show_icons=true&theme=tokyonight)
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=cherish-ltt&show_icons=true&theme=tokyonight)
