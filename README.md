@@ -1,11 +1,11 @@
 <h1 align="center">
-  <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Source+Han+Sans&pause=1000&center=true&random=false&width=435&lines=lynn" alt="Typing SVG" /></a>
+  <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Source+Han+Sans&pause=1000&center=true&random=false&width=435&lines=Lynn" alt="Typing SVG" /></a>
 </h1>
 <br>
 <!-- 徽章start -->
 <p align="center">
   <!-- Github徽章 -->
-  <a href="https://github.com/cherish-ltt" target="_blank"><img src="https://img.shields.io/badge/GitHub-linlin-red"></a>
+  <a href="https://github.com/cherish-ltt" target="_blank"><img src="https://img.shields.io/badge/GitHub-lynn-red"></a>
   <!-- Gitee徽章 -->
   <!-- <a href="https://gitee.com/xiaolinlinw" target="_blank"><img src="https://img.shields.io/badge/Gitee-linlin-orange"></a> -->
   <!-- 个人网站徽章 -->
@@ -46,7 +46,7 @@
 <!-- 统计卡片end -->
 <br>
 
-[![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=aojiaoxiaolinlin&theme=tokyo-night)](https://github.com/ashutosh00710/github-readme-activity-graph)
+[![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=cherish-ltt&theme=tokyo-night)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
 
 
