@@ -1,5 +1,5 @@
 <h1 align="center">
-  <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Source+Han+Sans&pause=1000&center=true&random=false&width=435&lines=%E5%82%B2%E5%A8%87%E5%B0%8F%E9%9C%96%E9%9C%96" alt="Typing SVG" /></a>
+  <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Source+Han+Sans&pause=1000&center=true&random=false&width=435&lines=lynn" alt="Typing SVG" /></a>
 </h1>
 <br>
 <!-- 徽章start -->
@@ -10,7 +10,7 @@
   <a href="https://gitee.com/xiaolinlinw" target="_blank"><img src="https://img.shields.io/badge/Gitee-linlin-orange"></a>
   <!-- 个人网站徽章 -->
   <a href="https://aojiaoxiaolinlin.github.io" target="_blank">
-    <img src="https://img.shields.io/badge/blog-霖霖-red" alt="个人网站">
+    <img src="https://img.shields.io/badge/blog-lynn-red" alt="个人网站">
   </a>
 </p>
 <!-- 徽章end -->
