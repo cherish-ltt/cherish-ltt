@@ -1,16 +1,16 @@
 <h1 align="center">
-  <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Source+Han+Sans&pause=1000&center=true&random=false&width=435&lines=Lynn" alt="Typing SVG" /></a>
+  <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Source+Han+Sans&pause=1000&center=true&random=false&width=435&lines=Ghyper9023" alt="Typing SVG" /></a>
 </h1>
 <br>
 <!-- 徽章start -->
 <p align="center">
   <!-- Github徽章 -->
-  <a href="https://github.com/cherish-ltt" target="_blank"><img src="https://img.shields.io/badge/GitHub-lynn-red"></a>
+  <a href="https://github.com/cherish-ltt" target="_blank"><img src="https://img.shields.io/badge/GitHub-Ghyper9023-red"></a>
   <!-- Gitee徽章 -->
   <!-- <a href="https://gitee.com/xiaolinlinw" target="_blank"><img src="https://img.shields.io/badge/Gitee-linlin-orange"></a> -->
   <!-- 个人网站徽章 -->
   <!-- <a href="https://aojiaoxiaolinlin.github.io" target="_blank">
-    <img src="https://img.shields.io/badge/blog-lynn-red" alt="个人网站">
+    <img src="https://img.shields.io/badge/blog-Ghyper9023-red" alt="个人网站">
   </a> -->
 </p>
 <!-- 徽章end -->
