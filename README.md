@@ -41,21 +41,14 @@
 <br>
 
 <p align="center">
-  <img alt="git" src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=cherish-ltt&theme=algolia" />
-  <img alt="Vue" src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=cherish-ltt&theme=algolia" />
-  <img alt="Nuxt" src="http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=cherish-ltt&theme=algolia&utcOffset=8">
-  <img alt="html5" src="http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=cherish-ltt&theme=algolia" />
-  <img alt="html5" src="http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=cherish-ltt&theme=algolia" />
-  <img alt="html5" src="https://github-readme-activity-graph.vercel.app/graph?username=cherish-ltt&theme=tokyo-night" />
-  <img alt="html5" src="https://github.com/ashutosh00710/github-readme-activity-graph" />
+  <img alt="stats" src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=cherish-ltt&theme=algolia" />
+  <img alt="stats" src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=cherish-ltt&theme=algolia" />
+  <img alt="stats" src="http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=cherish-ltt&theme=algolia&utcOffset=8">
+  <img alt="stats" src="http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=cherish-ltt&theme=algolia" />
+  <img alt="stats" src="http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=cherish-ltt&theme=algolia" />
+  <img alt="stats" src="https://github-readme-activity-graph.vercel.app/graph?username=cherish-ltt&theme=tokyo-night" />
+  <img alt="stats" src="https://github.com/ashutosh00710/github-readme-activity-graph" />
 </p>
-![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=cherish-ltt&theme=algolia)
-
-![](http://github-profile-summary-cards.vercel.app/api/cards/stats?username=cherish-ltt&theme=algolia) ![](http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=cherish-ltt&theme=algolia&utcOffset=8)
-
-![](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=cherish-ltt&theme=algolia) ![](http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=cherish-ltt&theme=algolia)
-
-[![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=cherish-ltt&theme=tokyo-night)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
 ### My Web
 
