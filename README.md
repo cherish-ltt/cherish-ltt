@@ -41,12 +41,13 @@
 <br>
 
 <p align="center">
-  <img alt="git" src="[https://img.shields.io/badge/-Git-F05032?style=for-the-badge&logo=git&logoColor=white](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=cherish-ltt&theme=algolia)" />
-  <img alt="Vue" src="[https://img.shields.io/badge/Vue-2a3642?style=for-the-badge&logo=vue.js&logoColor=42b883](http://github-profile-summary-cards.vercel.app/api/cards/stats?username=cherish-ltt&theme=algolia)" />
-  <img alt="Nuxt" src="[https://img.shields.io/badge/Nuxt-2a3642?style=for-the-badge&logo=Nuxt&logoColor=%2300dc82](http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=cherish-ltt&theme=algolia&utcOffset=8)">
-  <img alt="html5" src="[https://img.shields.io/badge/-HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=cherish-ltt&theme=algolia)" />
-  <img alt="html5" src="[https://img.shields.io/badge/-HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white](http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=cherish-ltt&theme=algolia)" />
-  <img alt="html5" src="[https://img.shields.io/badge/-HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white](https://github-readme-activity-graph.vercel.app/graph?username=cherish-ltt&theme=tokyo-night)" />
+  <img alt="git" src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=cherish-ltt&theme=algolia" />
+  <img alt="Vue" src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=cherish-ltt&theme=algolia" />
+  <img alt="Nuxt" src="http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=cherish-ltt&theme=algolia&utcOffset=8">
+  <img alt="html5" src="http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=cherish-ltt&theme=algolia" />
+  <img alt="html5" src="http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=cherish-ltt&theme=algolia" />
+  <img alt="html5" src="https://github-readme-activity-graph.vercel.app/graph?username=cherish-ltt&theme=tokyo-night" />
+  <img alt="html5" src="https://github.com/ashutosh00710/github-readme-activity-graph" />
 </p>
 ![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=cherish-ltt&theme=algolia)
 
