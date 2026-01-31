@@ -47,15 +47,15 @@
   <img alt="stats" src="http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=cherish-ltt&theme=algolia" />
   <img alt="stats" src="http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=cherish-ltt&theme=algolia" />
   <img alt="stats" src="https://github-readme-activity-graph.vercel.app/graph?username=cherish-ltt&theme=tokyo-night" />
-  <img alt="stats1" src="https://github.com/ashutosh00710/github-readme-activity-graph" />
 </p>
-
+<br>
+<p align="center">
 ### My Web
 
 | blog                                    |                      home                       |                                     Guardian                |
 | -------------------------------------- | ------------------------------------------------------------ | ------------------------------------------------------------ | 
 | [click](https://blog.65432123.xyz) | [click](https://www.25131425.xyz) | [click](https://guardian.25131425.xyz) |
-
+</p>
 
 <!--
 **cherish-ltt/cherish-ltt** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
