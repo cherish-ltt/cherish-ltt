@@ -42,17 +42,17 @@
 
 ---
 个人项目 - Personal Projects
-- [LynnTcp](https://github.com/cherish-ltt/lynn_tcp): 一个轻量级的 TCP 服务器框架(A lightweight TCP server framework)
+- [⭐Kcp-ovo](https://github.com/cherish-ltt/kcp-ovo): KCP协议的纯Rust实现 - 快速可靠的ARQ协议(Pure Rust Implementation of the KCP Protocol - A Fast and Reliable ARQ Protocol)
+- [⭐AxumServiceScaffold](https://github.com/cherish-ltt/AxumServiceScaffold): 面向 axum + sea-orm 的 Rust 空白脚手架，采用洋葱架构(A Rust skeleton for axum + sea-orm, adopting a onion architecture)
+- [⭐LynnTcp](https://github.com/cherish-ltt/lynn_tcp): 一个轻量级的 TCP 服务器框架(A lightweight TCP server framework)
 - [AeroX](https://github.com/cherish-ltt/AeroX): 实验性高性能游戏服务器后端框架(Experimental High-Performance Game Server Backend Framework)
 - [Guardian](https://github.com/cherish-ltt/Guardian): 基于 Rust-Axum 的后台管理认证系统(Backend management authentication system based on Rust-Axum)
 - [Guardian-Website](https://github.com/cherish-ltt/Guardian-Website): 使用 nextjs 构建的 Guardian 认证系统前端项目(Frontend project for the Guardian authentication system built with Nextjs)
-- [Kcp-ovo](https://github.com/cherish-ltt/kcp-ovo): KCP协议的纯Rust实现 - 快速可靠的ARQ协议(Pure Rust Implementation of the KCP Protocol - A Fast and Reliable ARQ Protocol)
-- [AxumServiceScaffold](https://github.com/cherish-ltt/AxumServiceScaffold): 面向 axum + sea-orm 的 Rust 空白脚手架，采用洋葱架构(A Rust skeleton for axum + sea-orm, adopting a onion architecture)
 - [LynnSundial](https://github.com/cherish-ltt/lynn_sundial): 一个支持cron的异步并发定时任务管理器(An asynchronous concurrent scheduled task manager that supports cron)
 ---
 正在参与 - Participating
-- [langchain-rs](https://github.com/cherish-ltt/langchain-rs): A LangChain implementation in Rust.      
-
+- ⭐基于kcp加速的ssh转发工具 - rksh(rust-kcp-secure-ssh)
+- ⭐基于hy-mt-1.5的多平台多终端离线翻译助手
 
 
 
@@ -72,6 +72,12 @@
 | blog                                    |                      home                       |                                     Guardian                |
 | -------------------------------------- | ------------------------------------------------------------ | ------------------------------------------------------------ | 
 | [click](https://blog.65432123.xyz) | [click](https://www.25131425.xyz) | [click](https://guardian.25131425.xyz) |
+
+---
+
+<div align="center">
+  <sub>Built with ❤️ by cherish-ltt(ghyper9023) </sub>
+</div>
 
 <!--
 **cherish-ltt/cherish-ltt** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
