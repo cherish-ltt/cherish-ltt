@@ -45,6 +45,7 @@
 - [⭐Kcp-ovo](https://github.com/cherish-ltt/kcp-ovo): KCP协议的纯Rust实现 - 快速可靠的ARQ协议(Pure Rust Implementation of the KCP Protocol - A Fast and Reliable ARQ Protocol)
 - [⭐AxumServiceScaffold](https://github.com/cherish-ltt/AxumServiceScaffold): 面向 axum + sea-orm 的 Rust 空白脚手架，采用洋葱架构(A Rust skeleton for axum + sea-orm, adopting a onion architecture)
 - [⭐LynnTcp](https://github.com/cherish-ltt/lynn_tcp): 一个轻量级的 TCP 服务器框架(A lightweight TCP server framework)
+- [⭐ghyper9023-self-workflow](https://github.com/cherish-ltt/ghyper9023-self-workflow): 自用的pi-package(pi-package: ghyper9023-self-workflow )
 - [AeroX](https://github.com/cherish-ltt/AeroX): 实验性高性能游戏服务器后端框架(Experimental High-Performance Game Server Backend Framework)
 - [Guardian](https://github.com/cherish-ltt/Guardian): 基于 Rust-Axum 的后台管理认证系统(Backend management authentication system based on Rust-Axum)
 - [Guardian-Website](https://github.com/cherish-ltt/Guardian-Website): 使用 nextjs 构建的 Guardian 认证系统前端项目(Frontend project for the Guardian authentication system built with Nextjs)
