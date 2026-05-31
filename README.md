@@ -42,7 +42,8 @@
 
 ---
 ### 活跃项目 - Active Projects
-- [⭐pi-dev-workflow](https://github.com/cherish-ltt/pi-dev-workflow): pi-dev-workflow(pi-dev-workflow: Developer workflow toolkit for pi: git agents, code review, Karpathy guidelines, themes  )
+- [⭐oy](https://github.com/cherish-ltt/oy): rust编写的极简ai-agent(Rust-based minimal AI agent)
+- [⭐pi-dev-workflow](https://github.com/cherish-ltt/pi-dev-workflow): pi-dev-workflow(Developer workflow toolkit for pi: git agents, code review, Karpathy guidelines, themes)
 - [⭐U2Secure](https://github.com/cherish-ltt/U2Secure): Linux 服务器安全加固 CLI 工具(Make your Linux system more secure through interactive CLI)
 - [⭐Kcp-ovo](https://github.com/cherish-ltt/kcp-ovo): KCP协议的纯Rust实现 - 快速可靠的ARQ协议(Pure Rust Implementation of the KCP Protocol - A Fast and Reliable ARQ Protocol)
 ---
