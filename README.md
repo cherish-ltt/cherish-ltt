@@ -41,26 +41,26 @@
 <br>
 
 ---
-### AI与智能体
+### AI与智能体 - AI Agents
 - [⭐oy](https://github.com/cherish-ltt/oy): rust编写的极简ai-agent (Rust-based minimal AI agent)
 - [⭐pi-dev-workflow](https://github.com/cherish-ltt/pi-dev-workflow): pi-agent开发者工作流包：git agents、代码评审、Karpathy 指南、主题(Developer workflow toolkit for pi: git agents, code review, Karpathy guidelines, themes)
 
-### Linux安全工具
+### Linux安全工具 - Linux
 - [⭐U2Secure](https://github.com/cherish-ltt/U2Secure): Linux 服务器安全加固 CLI/TUI 工具 (Linux Server Security Hardening CLI/TUI Tools)
 
-### 网络协议与通信
+### 网络协议与通信 - Network
 - [⭐Kcp-ovo](https://github.com/cherish-ltt/kcp-ovo): KCP协议的纯Rust实现 - 快速可靠的ARQ协议 (Pure Rust Implementation of the KCP Protocol - A Fast and Reliable ARQ Protocol)
 - [⭐LynnTcp](https://github.com/cherish-ltt/lynn_tcp): 一个轻量级的 TCP 服务器框架 (A lightweight TCP server framework)
 - ~~[AeroX - 实验性,不推荐](https://github.com/cherish-ltt/AeroX): 实验性高性能游戏服务器后端框架 (Experimental High-Performance Game Server Backend Framework)~~
 
-### 后端框架与脚手架
+### 后端框架与脚手架 - Scaffold
 - [⭐AxumServiceScaffold](https://github.com/cherish-ltt/AxumServiceScaffold): 面向 axum + sea-orm 的 Rust 空白脚手架，采用DDD+洋葱架构 (A Rust skeleton for axum + sea-orm, adopting an onion architecture)
 
-### Guardian认证管理
+### Guardian认证管理 - Guardian
 - [Guardian](https://github.com/cherish-ltt/Guardian): 基于 Rust-Axum 的后台管理认证系统 (Backend management authentication system based on Rust-Axum)
 - [Guardian-Website](https://github.com/cherish-ltt/Guardian-Website): 使用 nextjs 构建的 Guardian 认证系统前端项目 (Frontend project for the Guardian authentication system built with Nextjs)
 
-### 时间轮任务调度系统
+### 时间轮任务调度系统 - Scheduled
 - [LynnSundial](https://github.com/cherish-ltt/lynn_sundial): 一个支持cron的异步并发定时任务管理器 (An asynchronous concurrent scheduled task manager that supports cron)
 
 ### 正在参与 - Participating
