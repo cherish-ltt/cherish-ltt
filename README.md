@@ -60,6 +60,9 @@
 - [Guardian](https://github.com/cherish-ltt/Guardian): 基于 Rust-Axum 的后台管理认证系统 (Backend management authentication system based on Rust-Axum)
 - [Guardian-Website](https://github.com/cherish-ltt/Guardian-Website): 使用 nextjs 构建的 Guardian 认证系统前端项目 (Frontend project for the Guardian authentication system built with Nextjs)
 
+### 缓存与存储 - Cache
+- [⭐lru-ovo](https://github.com/cherish-ltt/lru-ovo): 线程安全、异步友好的双层 LRU 缓存库，支持热 key 提升、serde 与快照迭代器 (A thread-safe, async-friendly two-tier LRU cache with hot-key promotion, serde support, and snapshot iterators)
+
 ### 时间轮任务调度系统 - Scheduled
 - [LynnSundial](https://github.com/cherish-ltt/lynn_sundial): 一个支持cron的异步并发定时任务管理器 (An asynchronous concurrent scheduled task manager that supports cron)
 
