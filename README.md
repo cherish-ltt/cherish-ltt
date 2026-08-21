@@ -63,6 +63,9 @@
 ### 缓存与存储 - Cache
 - [⭐lru-ovo](https://github.com/cherish-ltt/lru-ovo): 线程安全、异步友好的双层 LRU 缓存库，支持热 key 提升、serde 与快照迭代器 (A thread-safe, async-friendly two-tier LRU cache with hot-key promotion, serde support, and snapshot iterators)
 
+### HideSomethingTool - Tool
+- [hide-something](https://github.com/cherish-ltt/hide-something): 通过更改字母大小写将任意信息隐藏到文本载体中 (Hides arbitrary information into a text carrier by altering letter case)
+
 ### 视频格式工厂 - FfmpegTool
 
 - [⭐e2-ffmpeg-ovo](https://github.com/cherish-ltt/e2-ffmpeg-ovo): 基于 Tauri 2.0、React 18/19、TypeScript 与 Rust 的跨平台本地视频/音频处理工具 (A cross-platform native video/audio processing tool built on Tauri 2.0, React 18/19, TypeScript, and Rust)
