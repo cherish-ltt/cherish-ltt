@@ -42,15 +42,15 @@
 
 ---
 ### AI与智能体 - AI Agents
-- [⭐oy](https://github.com/cherish-ltt/oy): rust编写的极简ai-agent (Rust-based minimal AI agent)
-- [⭐pi-dev-workflow](https://github.com/cherish-ltt/pi-dev-workflow): pi-agent开发者工作流包：git agents、代码评审、Karpathy 指南、主题(Developer workflow toolkit for pi: git agents, code review, Karpathy guidelines, themes)
+- [oy](https://github.com/cherish-ltt/oy): rust编写的极简ai-agent (Rust-based minimal AI agent)
+- [pi-dev-workflow](https://github.com/cherish-ltt/pi-dev-workflow): pi-agent开发者工作流包：git agents、代码评审、Karpathy 指南、主题(Developer workflow toolkit for pi: git agents, code review, Karpathy guidelines, themes)
 
 ### Linux安全工具 - Linux
 - [⭐U2Secure](https://github.com/cherish-ltt/U2Secure): Linux 服务器安全加固 CLI/TUI 工具 (Linux Server Security Hardening CLI/TUI Tools)
 
 ### 网络协议与通信 - Network
-- [⭐Kcp-ovo](https://github.com/cherish-ltt/kcp-ovo): KCP协议的纯Rust实现 - 快速可靠的ARQ协议 (Pure Rust Implementation of the KCP Protocol - A Fast and Reliable ARQ Protocol)
-- [⭐LynnTcp](https://github.com/cherish-ltt/lynn_tcp): 一个轻量级的 TCP 服务器框架 (A lightweight TCP server framework)
+- [Kcp-ovo](https://github.com/cherish-ltt/kcp-ovo): KCP协议的纯Rust实现 - 快速可靠的ARQ协议 (Pure Rust Implementation of the KCP Protocol - A Fast and Reliable ARQ Protocol)
+- [LynnTcp](https://github.com/cherish-ltt/lynn_tcp): 一个轻量级的 TCP 服务器框架 (A lightweight TCP server framework)
 - ~~[AeroX - 实验性,不推荐](https://github.com/cherish-ltt/AeroX): 实验性高性能游戏服务器后端框架 (Experimental High-Performance Game Server Backend Framework)~~
 
 ### 后端框架与脚手架 - Scaffold
@@ -61,14 +61,14 @@
 - [Guardian-Website](https://github.com/cherish-ltt/Guardian-Website): 使用 nextjs 构建的 Guardian 认证系统前端项目 (Frontend project for the Guardian authentication system built with Nextjs)
 
 ### 缓存与存储 - Cache
-- [⭐lru-ovo](https://github.com/cherish-ltt/lru-ovo): 线程安全、异步友好的双层 LRU 缓存库，支持热 key 提升、serde 与快照迭代器 (A thread-safe, async-friendly two-tier LRU cache with hot-key promotion, serde support, and snapshot iterators)
+- [lru-ovo](https://github.com/cherish-ltt/lru-ovo): 线程安全、异步友好的双层 LRU 缓存库，支持热 key 提升、serde 与快照迭代器 (A thread-safe, async-friendly two-tier LRU cache with hot-key promotion, serde support, and snapshot iterators)
 
 ### HideSomethingTool - Tool
 - [hide-something](https://github.com/cherish-ltt/hide-something): 通过更改字母大小写将任意信息隐藏到文本载体中 (Hides arbitrary information into a text carrier by altering letter case)
 
 ### 视频格式工厂 - FfmpegTool
 
-- [⭐e2-ffmpeg-ovo](https://github.com/cherish-ltt/e2-ffmpeg-ovo): 基于 Tauri 2.0、React 18/19、TypeScript 与 Rust 的跨平台本地视频/音频处理工具 (A cross-platform native video/audio processing tool built on Tauri 2.0, React 18/19, TypeScript, and Rust)
+- [e2-ffmpeg-ovo](https://github.com/cherish-ltt/e2-ffmpeg-ovo): 基于 Tauri 2.0、React 18/19、TypeScript 与 Rust 的跨平台本地视频/音频处理工具 (A cross-platform native video/audio processing tool built on Tauri 2.0, React 18/19, TypeScript, and Rust)
 
 ### 时间轮任务调度系统 - Scheduled
 - [LynnSundial](https://github.com/cherish-ltt/lynn_sundial): 一个支持cron的异步并发定时任务管理器 (An asynchronous concurrent scheduled task manager that supports cron)
