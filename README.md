@@ -54,7 +54,7 @@
 
 ### 后端框架与脚手架 - Scaffold
 - [⭐AxumServiceScaffold](https://github.com/cherish-ltt/AxumServiceScaffold): 面向 axum + sea-orm 的 Rust 空白脚手架，采用DDD+洋葱架构 (A Rust skeleton for axum + sea-orm, adopting an onion architecture)
-- [⭐LongshipX](https://github.com/cherish-ltt/LongshipX): 基于 **tokio + TCP/TLS 1.3** 的 Rust 长连接游戏服务器后端,采用 **DDD + 洋葱架构** 组织为 Cargo workspace 多 crate 单体 (A Rust long-connection game server backend, based on tokio + TCP/TLS 1.3, is organized as a Cargo workspace with multiple crates in a monolithic structure using DDD + onion architecture)
+- [⭐LongshipX](https://github.com/cherish-ltt/LongshipX): 基于 tokio + TCP/TLS 1.3 的 Rust 长连接游戏服务器后端,采用 DDD + 洋葱架构 组织为 Cargo workspace 多 crate 单体 (A Rust long-connection game server backend, based on tokio + TCP/TLS 1.3, is organized as a Cargo workspace with multiple crates in a monolithic structure using DDD + onion architecture)
 
 ### Guardian认证管理 - Guardian
 - [Guardian](https://github.com/cherish-ltt/Guardian): 基于 Rust-Axum 的后台管理认证系统 (Backend management authentication system based on Rust-Axum)
