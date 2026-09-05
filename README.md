@@ -60,7 +60,7 @@
 
 ### 网络协议与通信 - Network
 - [Kcp-ovo](https://github.com/cherish-ltt/kcp-ovo): KCP协议的纯Rust实现 - 快速可靠的ARQ协议 (Pure Rust Implementation of the KCP Protocol - A Fast and Reliable ARQ Protocol)
-- [LynnTcp](https://github.com/cherish-ltt/lynn_tcp): 一个轻量级的 TCP 服务器框架 (A lightweight TCP server framework)
+- [⭐LynnTcp](https://github.com/cherish-ltt/lynn_tcp): 一个轻量级的 TCP 服务器框架 (A lightweight TCP server framework)
 
 ### 后端框架与脚手架 - Scaffold
 - [⭐AxumServiceScaffold](https://github.com/cherish-ltt/AxumServiceScaffold): 面向 axum + sea-orm 的 Rust 空白脚手架，采用DDD+洋葱架构 (A Rust skeleton for axum + sea-orm, adopting an onion architecture)
