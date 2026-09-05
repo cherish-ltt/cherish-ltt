@@ -1,5 +1,7 @@
 <h1 align="center">
   <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Source+Han+Sans&pause=1000&center=true&random=false&width=435&lines=Ghyper9023" alt="Typing SVG" /></a>
+  <br>
+  <img src="https://github.com/cherish-ltt/cherish-ltt/blob/main/github-logo.png" alt="logo" width="256" height="256">
 </h1>
 <br>
 <!-- 徽章start -->
