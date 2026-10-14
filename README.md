@@ -54,8 +54,7 @@
 - [e2-ffmpeg-ovo](https://github.com/cherish-ltt/e2-ffmpeg-ovo): 基于 Tauri 2.0、React 18/19、TypeScript 与 Rust 的跨平台本地视频/音频处理工具 (A cross-platform native video/audio processing tool built on Tauri 2.0, React 18/19, TypeScript, and Rust)
 
 ### Guardian认证管理 - Guardian
-- [Guardian](https://github.com/cherish-ltt/Guardian): 基于 Rust-Axum 的后台管理认证系统 (Backend management authentication system based on Rust-Axum)
-- [Guardian-Website](https://github.com/cherish-ltt/Guardian-Website): 使用 nextjs 构建的 Guardian 认证系统前端项目 (Frontend project for the Guardian authentication system built with Nextjs)
+- [Guardian](https://github.com/cherish-ltt/Guardian): 基于 Axum+Vue 的后台管理认证系统 (Backend management authentication system based on Axum+Vue)
 
 ### Linux安全工具 - Linux
 - [⭐U2Secure](https://github.com/cherish-ltt/U2Secure): Linux 服务器安全加固 CLI/TUI 工具 (Linux Server Security Hardening CLI/TUI Tools)
