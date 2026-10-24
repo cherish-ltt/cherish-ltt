@@ -1,24 +1,4 @@
 <h1 align="center">
-  <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Source+Han+Sans&pause=1000&center=true&random=false&width=435&lines=Ghyper9023" alt="Typing SVG" /></a>
-  <br>
-  <img src="https://github.com/cherish-ltt/cherish-ltt/blob/main/github-logo.png" alt="logo" width="256" height="256">
-</h1>
-<br>
-<!-- 徽章start -->
-<p align="center">
-  <!-- Github徽章 -->
-  <a href="https://github.com/cherish-ltt" target="_blank"><img src="https://img.shields.io/badge/GitHub-Ghyper9023-red"></a>
-  <!-- Gitee徽章 -->
-  <!-- <a href="https://gitee.com/xiaolinlinw" target="_blank"><img src="https://img.shields.io/badge/Gitee-linlin-orange"></a> -->
-  <!-- 个人网站徽章 -->
-  <!-- <a href="https://aojiaoxiaolinlin.github.io" target="_blank">
-    <img src="https://img.shields.io/badge/blog-Ghyper9023-red" alt="个人网站">
-  </a> -->
-</p>
-<!-- 徽章end -->
-<br>
-<!--技能start-->
-<p>
   <img alt="Rust" src="https://img.shields.io/badge/Rust-e33b26?style=for-the-badge&logo=Rust&logoColor=black" />
   <img alt="Bevy" src="https://img.shields.io/badge/Bevy-232326?style=for-the-badge&logo=bevy&logoColor=white">
   <img alt="Java" src="https://img.shields.io/badge/Java-5282a0?style=for-the-badge&logo=openjdk&logoColor=f29111" />
@@ -44,6 +24,7 @@
 
 ---
 ### AI与智能体 - AI Agents
+- [⭐dsh-dev-workflow](https://github.com/cherish-ltt/dsh-dev-workflow): dsh开发者工作流包：(Developer workflow toolkit for dsh)
 - [⭐pi-dev-workflow](https://github.com/cherish-ltt/pi-dev-workflow): pi-agent开发者工作流包：git agents、代码评审、Karpathy 指南、主题(Developer workflow toolkit for pi: git agents, code review, Karpathy guidelines, themes)
 
 ### 缓存与存储 - Cache
@@ -102,19 +83,3 @@
 | [click](https://blog.65432123.xyz) | [click](https://www.25131425.xyz) | [click](https://guardian.25131425.xyz) |
 
 ---
-
-**cherish-ltt/cherish-ltt** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
-- ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=cherish-ltt&show_icons=true&theme=tokyonight)
--->
-
